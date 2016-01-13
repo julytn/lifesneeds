@@ -1,4 +1,4 @@
 # Life's Needs
 Side project for Mom.
 
-Map of dollar stores and produce shops using [YellowPages' API](http://www.yellowapi.com/).
+Map of dollar stores and produce shops using [YellowPages' API](http://www.yellowapi.com/) and Google Maps API.
